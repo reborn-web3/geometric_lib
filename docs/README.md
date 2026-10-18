@@ -18,3 +18,7 @@ Please check out License Agreement for personal usage terms and limitations
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
 
+
+## Лабораторная работа №2 (Дисциплина АИС)
+- Обновлена документация геометрических функций.
+- Выполнил: студент 4 курса группы ИВТ-32 Быков Павел Алексеевич, студ. билет № 220147.
